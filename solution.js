@@ -1,3 +1,6 @@
+// Created By: Karanpreet Sachdeva
+// ID: C0884994
+// Program to create a racing game
 class Car
 {
     // Constructor of the Car class
